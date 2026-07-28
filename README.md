@@ -1,4 +1,4 @@
-# VoyageAI - AI Trip Planner 
+# VoyageAI -Trip Planner 
 
 A commercial-grade, full-stack AI Trip Planner application built with **React 19**, **Vite**, **Tailwind CSS**, **Framer Motion**, **@dnd-kit**, **Express**, and **Groq API**.
 
