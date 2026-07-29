@@ -83,7 +83,7 @@ trip-planner/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -118,7 +118,7 @@ npm run dev
 
 ---
 
-## 🧠 AI Prompt Strategy
+## AI Prompt Strategy
 
 The backend enforces strict JSON returning rules via system prompts in `server/utils/promptBuilder.js`:
 
@@ -128,7 +128,7 @@ The backend enforces strict JSON returning rules via system prompts in `server/u
 
 ---
 
-## 🛡️ Error Handling & Resilience
+## Error Handling & Resilience
 
 - **`safeJsonParse(input)`**: Strips ```json wrappers, cleans trailing commas, and extracts valid JSON objects safely.
 - **`validateAndNormalizeTrip(data)`**: Asserts schema rules, injects default values for missing keys, and normalizes stop category types.
