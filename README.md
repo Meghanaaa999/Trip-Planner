@@ -228,15 +228,15 @@ The application includes multiple safeguards to ensure reliable AI integration.
 
 ## Time Spent
 
-Approximately 8 hours.
+Approximately 6 hours.
 
 | Task | Time |
 |------|------|
-| Planning and UI Design | 1.5 hours |
-| Frontend Development | 3 hours |
+| Planning and UI Design | 1 hour|
+| Frontend Development | 2 hours |
 | Backend Development | 1 hour |
 | AI Integration and Error Handling | 1 hour |
-| Testing and Responsive Design | 1 hour |
+| Testing and Responsive Design | 0.5 hour |
 | Documentation | 0.5 hour |
 
 ---
