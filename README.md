@@ -108,9 +108,9 @@ trip-planner/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/voyage-ai-trip-planner.git
+git clone https://github.com/your-username/trip-planner.git
 
-cd voyage-ai-trip-planner
+cd trip-planner
 ```
 
 ---
