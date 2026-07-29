@@ -50,7 +50,4 @@ app.use((err, req, res, next) => {
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
-<<<<<<< HEAD
 
-=======
->>>>>>> c7f5342cf0784cbfca592d998d9a9458ff38406c
